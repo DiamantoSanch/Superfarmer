@@ -2,6 +2,7 @@
 Telegram bot with which you can play super farmer
 
 Eng:
+The bot is only in Russian!
 To run the code, you need to put both files in the same folder, create another file with the extension in it .py and put YOUR telegram bot token in it. Then install the python-telegram-bot v13.15 library. Now everything is ready to run.
 
 Рус:
